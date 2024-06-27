@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{bb37e79e-5543-40f2-b186-57e3623fea44}">
+		<property name="assetPath">
+			<value>twinkle.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>5.7208163265306125</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{022807e0-7096-4e19-bfa2-909879136d39}</destination>
+		</relationship>
+	</object>
+</objects>

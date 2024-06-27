@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{8727dc65-5ecb-4e5c-a816-b69249862a75}">
+		<property name="assetPath">
+			<value>chicken.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>5</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{022807e0-7096-4e19-bfa2-909879136d39}</destination>
+		</relationship>
+	</object>
+</objects>

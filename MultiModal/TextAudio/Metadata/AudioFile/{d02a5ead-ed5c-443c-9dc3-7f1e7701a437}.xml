@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{d02a5ead-ed5c-443c-9dc3-7f1e7701a437}">
+		<property name="assetPath">
+			<value>footfall.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>5</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{022807e0-7096-4e19-bfa2-909879136d39}</destination>
+		</relationship>
+	</object>
+</objects>

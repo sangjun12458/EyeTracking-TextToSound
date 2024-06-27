@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Bank" id="{e481d68a-b14a-4024-9990-d4fc642549c6}">
+		<property name="name">
+			<value>fade</value>
+		</property>
+		<relationship name="folder">
+			<destination>{e3293922-6efc-42ef-9382-f19aecaa3f20}</destination>
+		</relationship>
+	</object>
+</objects>
