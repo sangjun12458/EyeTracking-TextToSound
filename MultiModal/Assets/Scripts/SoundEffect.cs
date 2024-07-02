@@ -172,7 +172,6 @@ public class SoundEffect : MonoBehaviour, IGazeFocusable
             indexText.text = indexOfQuote.ToString();
         }
 
-        // 눈 추적 데이터를 세계 공간에서 가져오기
         var eyeTrackingData = TobiiXR.GetEyeTrackingData(TobiiXR_TrackingSpace.World);
 
         CheckWord("");
