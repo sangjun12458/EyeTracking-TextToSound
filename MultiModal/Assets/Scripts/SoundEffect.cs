@@ -176,7 +176,7 @@ public class SoundEffect : MonoBehaviour, IGazeFocusable
 
         CheckWord("");
         // GazeRay가 유효한지 확인
-        if (false)//(eyeTrackingData.GazeRay.IsValid)
+        if (eyeTrackingData.GazeRay.IsValid)
         {
             // GazeRay의 원점(시선의 위치)과 방향 벡터 가져오기
             var rayOrigin = eyeTrackingData.GazeRay.Origin;
